@@ -1,2 +1,3 @@
 This is my first command
-this project contain my basic knowledge in linux
+this project contain my basic knowledge in linux   
+and more knowledge
